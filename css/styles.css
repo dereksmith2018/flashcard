@@ -1,0 +1,22 @@
+.hide {
+  display: none;
+}
+/*span {
+  display: none;
+}*/
+
+.items {
+  border: 1px solid #a6a6a6;
+  margin-top: 30px;
+  height: 300px;
+  padding: 15px;
+  background-color: #f2f2f2;
+}
+
+h1{
+  text-align: center;
+}
+
+strong{
+  color: #595959;
+}
